@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\teplo\\Desktop\\11.04\\TestMobile\\TestMobile\\TestMobile.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\teplo\\Desktop\\11.04\\TestMobile\\TestMobile\\TestMobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\teplo\\Desktop\\11.04\\TestMobile\\TestMobile\\TestMobile.csproj",
+        "projectName": "TestMobile",
+        "projectPath": "C:\\Users\\teplo\\Desktop\\11.04\\TestMobile\\TestMobile\\TestMobile.csproj",
+        "packagesPath": "C:\\Users\\teplo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teplo\\Desktop\\11.04\\TestMobile\\TestMobile\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\teplo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
